@@ -1,0 +1,14 @@
+{
+  "name": "doordrop-otp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/edge-config": "^1.4.3",
+    "@vercel/kv": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}
